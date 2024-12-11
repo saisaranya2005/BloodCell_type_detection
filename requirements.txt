@@ -1,0 +1,25 @@
+# PyTorch (use compatible versions)
+torch==1.13.1
+torchvision==0.14.1
+
+# YOLOv5 dependencies
+opencv-python-headless>=4.5.1
+matplotlib>=3.2.2
+numpy>=1.18.5
+pandas>=1.1.4
+scipy>=1.4.1
+PyYAML>=5.3.1
+seaborn>=0.11.0
+tqdm>=4.41.0
+requests>=2.23.0
+
+# FastAPI and Uvicorn for web server
+fastapi==0.95.1
+uvicorn==0.22.0
+
+# Hugging Face requirements
+gradio>=3.24.0  # Optional: For UI interface if needed
+huggingface-hub>=0.16.0
+
+# Optional for space optimizations
+gunicorn  # For production server
