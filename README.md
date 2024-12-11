@@ -1,4 +1,4 @@
-# Link for the Hugging Space based deployement - https://huggingface.co/spaces/huchen2005/_123
+# Link for the Hugging Face Space based deployement - https://huggingface.co/spaces/huchen2005/_123
 
 # BCCD Dataset Object Detection with YOLOv5
 
