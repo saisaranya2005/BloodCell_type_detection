@@ -37,15 +37,15 @@ Bounding boxes and labels are drawn on the predicted images.
 ## Features
 
 - **Upload Image**: Allows users to upload images for blood cell detection.
-- 
+  
 - **Object Detection**: Detects and labels Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets in the uploaded image using a fine-tuned YOLOv5 model.
-- 
+  
 - **Bounding Boxes & Labels**: Displayed on the image with confidence scores.
-- 
+  
 - **Cell Information**: Provides descriptions for each detected cell type.
-- 
+  
 - **Precision & Recall**: Displays precision and recall scores for each class (RBC, WBC, Platelets).
-- 
+  
 - **Downloadable Images**: Users can download images with bounding boxes or detailed text labels.
-- 
+  
 - **Metrics Summary**: Displays key performance metrics (average precision, recall, loss, etc.) across all epochs.
